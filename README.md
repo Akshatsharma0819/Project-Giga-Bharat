@@ -49,22 +49,6 @@ This project undertakes a comprehensive market analysis to determine a data-driv
 
 ---
 
-### 📂 Repository Structure
-
-/Project-Giga-Bharat/
-|
-|-- /data/                # Contains all the raw .csv data files
-|-- /output/              # Contains the final project outputs
-|   |-- Dashboard_Final.png
-|   |-- Dashboard_Demo.mp4
-|   |-- Project-Giga-Bharat-Presentation.pptx
-|   |-- Project-Giga-Bharat-Presentation.pdf
-|
-|-- Giga_Bharat_Analysis.pbix # The Power BI source file
-|-- README.md               # Project overview and documentation (this file
-
----
-
 ### 📞 Contact
 
 * **Name:** Akshat Sharma
